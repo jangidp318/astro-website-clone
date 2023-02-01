@@ -1,6 +1,6 @@
 # Welcome to [Astro](https://astro.build)
 
-[![Demo](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://sharmaji-astro-website-clone.netlify.app/)
+[![Demo](https://sharmaji-astro-website-clone.netlify.app/assets/logo.6498442f.svg)](https://sharmaji-astro-website-clone.netlify.app/)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
