@@ -1,6 +1,7 @@
 ---
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import { ServiceWorker } from "../components/ServiceWorker";
 import "../styles/global.css"
 export interface Props{
     title?: string;
@@ -24,5 +25,7 @@ const { title = "Astro web" } = Astro.props as Props;
     <Header />
     <slot />
     <Footer />
+
+    <ServiceWorker client:only="react" />
   </body>
 </html>
